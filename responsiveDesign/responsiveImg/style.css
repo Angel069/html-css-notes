@@ -1,0 +1,5 @@
+/* Utilizar width: 100% es una buena practica para las imagenes*/
+
+img {
+    width: 100%;
+}
